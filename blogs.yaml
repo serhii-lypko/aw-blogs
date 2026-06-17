@@ -1,0 +1,28 @@
+resources:
+  programming:
+  - fallback: https://vitalik.eth.limo/
+    alias: vitalik
+
+  - rss: https://matklad.github.io/feed.xml
+    fallback: https://matklad.github.io/
+    alias: matklad
+
+  # - rss: https://blog.computationalcomplexity.org/feeds/posts/default
+  #   fallback: https://blog.computationalcomplexity.org/
+  #   alias: computational-complexity
+
+  # - rss: https://jyn.dev/atom.xml
+  #   fallback: https://jyn.dev/
+  #   alias: jyn
+
+  # - rss: https://smallcultfollowing.com/babysteps//atom.xml
+  #   fallback: https://smallcultfollowing.com/babysteps/blog/
+  #   alias: babysteps
+
+  # - rss: https://lucumr.pocoo.org/feed.xml
+  #   fallback: https://lucumr.pocoo.org/
+  #   alias: armin
+    
+  # - rss: https://kobzol.github.io/feed.xml
+  #   fallback: https://kobzol.github.io/
+  #   alias: kobzol
